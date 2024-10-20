@@ -43,5 +43,5 @@
 
 <div>
   <h3>Reference</h3>
-  [Android Knowledge]([https://www.youtube.com/watch?v=your_video_id](https://www.youtube.com/@android_knowledge))
+  [Android Knowledge]([https://www.youtube.com/@android_knowledge)
 </div>
